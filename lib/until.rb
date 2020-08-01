@@ -6,4 +6,4 @@ def using_until
     break
 end
 
-puts "ingardium Leviosa"
+puts "Wingardium Leviosa"
