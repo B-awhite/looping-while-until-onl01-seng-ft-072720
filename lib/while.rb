@@ -6,4 +6,4 @@ while levitation_force < 10
   put "Wingardium Leviosa"
 
   end
-
+end
