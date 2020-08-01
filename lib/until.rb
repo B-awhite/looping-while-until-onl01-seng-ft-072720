@@ -3,7 +3,7 @@ def using_until
   
   while levitation_force = levitation + 1 
   if levitation_force = >= 10
-    
+    break
 end
 
 puts "wingardium Leviosa"
